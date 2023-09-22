@@ -1,0 +1,2 @@
+
+		node *newnode=new node();
